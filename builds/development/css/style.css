@@ -271,6 +271,11 @@ section {
   max-width: 160px;
 }
 
+/* line 1, ../components/sass/_test.scss */
+.bzs {
+  font-size: 14px;
+}
+
 /* line 4, ../components/sass/_pixgrid.scss */
 .pixgrid img {
   max-width: 90px;
@@ -315,9 +320,4 @@ section {
   -moz-box-shadow: black 5px 5px 12px;
   -webkit-box-shadow: black 5px 5px 12px;
   box-shadow: black 5px 5px 12px;
-}
-
-/* line 1, ../components/sass/_test.scss */
-.bzs {
-  font-size: 14px;
 }
